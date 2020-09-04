@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WBAIFlashlivenessDetectSDK_Example' do
+  pod 'WBAIFlashlivenessDetectSDK', :path => '../'
+
+  target 'WBAIFlashlivenessDetectSDK_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
