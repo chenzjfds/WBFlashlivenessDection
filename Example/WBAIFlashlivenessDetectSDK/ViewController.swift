@@ -7,12 +7,27 @@
 //
 
 import UIKit
-
+//import WBAIFlashlivenessDetectSDK
+//import WBAIFlashlivenessDetectSDK
+//import  Fla
+//import Fla
+//import WBAIFlashlivenessDetectSDK
+//import WBAIFlashlivenessDetectSDK
+//import FlashLiveDetect
+//import FlashLiveDetect
+//import Bugly
+import FlashLiveDetect
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+//        Flash
+//        Flashli
+//        var d = Test()
+//        Bug
+//        Bugly.
+    
     }
 
     override func didReceiveMemoryWarning() {

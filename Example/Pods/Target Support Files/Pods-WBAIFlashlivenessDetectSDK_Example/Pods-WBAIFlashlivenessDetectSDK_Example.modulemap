@@ -1,0 +1,6 @@
+framework module Pods_WBAIFlashlivenessDetectSDK_Example {
+  umbrella header "Pods-WBAIFlashlivenessDetectSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

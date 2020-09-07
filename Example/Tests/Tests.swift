@@ -1,5 +1,5 @@
 import XCTest
-import WBAIFlashlivenessDetectSDK
+//import WBAIFlashlivenessDetectSDK
 
 class Tests: XCTestCase {
     
