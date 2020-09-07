@@ -1,0 +1,11 @@
+framework module FlashLiveDetect {
+  umbrella header "FlashLiveDetect.h"
+
+  export *
+  module * { export * }
+}
+
+module FlashLiveDetect.Swift {
+    header "FlashLiveDetect-Swift.h"
+    requires objc
+}

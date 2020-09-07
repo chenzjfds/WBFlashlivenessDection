@@ -1,8 +1,8 @@
 use_frameworks!
-
+source 'https://cdn.cocoapods.org/'
 target 'WBAIFlashlivenessDetectSDK_Example' do
   pod 'WBAIFlashlivenessDetectSDK', :path => '../'
-
+#pod 'WBAIFlashlivenessDetectSDK', '~>0.1.0'
   target 'WBAIFlashlivenessDetectSDK_Tests' do
     inherit! :search_paths
 

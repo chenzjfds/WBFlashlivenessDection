@@ -1,9 +1,9 @@
 {
   "name": "WBAIFlashlivenessDetectSDK",
-  "version": "0.1.0",
-  "summary": "A short description of WBAIFlashlivenessDetectSDK.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/hnchenzhijun@163.com/WBAIFlashlivenessDetectSDK",
+  "version": "0.1.1",
+  "summary": "活体检测",
+  "description": "光线活体检测的sdk",
+  "homepage": "https://github.com/chenzjfds/WBFlashlivenessDection.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,14 +12,16 @@
     "hnchenzhijun@163.com": "462601035@qq.com"
   },
   "source": {
-    "git": "https://github.com/hnchenzhijun@163.com/WBAIFlashlivenessDetectSDK.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/chenzjfds/WBFlashlivenessDection.git",
+    "tag": "0.1.1"
   },
+  "swift_versions": "5.0",
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
   "vendored_frameworks": [
     "WBAIFlashlivenessDetectSDK/MyFramework/*.framework"
   ],
-  "source_files": "WBAIFlashlivenessDetectSDK/Classes/**/*"
+  "source_files": "WBAIFlashlivenessDetectSDK/Classes/**/*",
+  "swift_version": "5.0"
 }

@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - WBAIFlashlivenessDetectSDK (0.1.0)
+  - WBAIFlashlivenessDetectSDK (0.1.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase (~> 2.1.4)
@@ -20,8 +20,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  WBAIFlashlivenessDetectSDK: 4698d1332020fbf64f4e9380bc0971efa0eb9eae
+  WBAIFlashlivenessDetectSDK: 1009e13fbc3d45165b55665e67bdcd1c3283a4ec
 
-PODFILE CHECKSUM: 87be95e9aee4b168544a686e225104f1b022d75e
+PODFILE CHECKSUM: 844f4e16a4208ecb1a924d66fcd722bea846d30d
 
 COCOAPODS: 1.8.4

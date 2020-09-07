@@ -18,4 +18,3 @@ FOUNDATION_EXPORT const unsigned char VoiceprintsdkVersionString[];
 
 
 #import "NSObject+FaceModelManager.h"
-#import "NSObject+Test.h"
